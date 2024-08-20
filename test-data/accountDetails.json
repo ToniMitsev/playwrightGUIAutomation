@@ -1,0 +1,17 @@
+{
+    "newEmail": "abracadabra12111@gmail.com",
+    "password": "123456",
+    "firstName": "Toni",
+    "lastName": "Miceff",
+    "day": "10",
+    "month": "3",
+    "year": "2000",
+    "company": "Company Ltd.",
+    "address1": "Company address 1",
+    "address2": "Company address 2",
+    "country": "United States",
+    "state": "Nevada",
+    "city": "Las Vegas",
+    "zipcode": "88901b",
+    "mobileNumber": "12345678"
+  }
